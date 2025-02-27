@@ -1,4 +1,4 @@
-#Parallel-vs-Sequential-Image-Processing-OS
+> Parallel-vs-Sequential-Image-Processing-OS
 
 This project evaluates the performance differences between multiprocessing (parallel processing) and normal (sequential processing) techniques in image processing, specifically focusing on background removal using OpenCV’s GrabCut algorithm.
 
