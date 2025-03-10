@@ -1,4 +1,4 @@
-# Parallel vs Sequential Image Processing
+# Parallel Image Processing
 
 ## Project Overview
 This project evaluates the performance differences between **multiprocessing (parallel processing)** and **sequential processing** techniques in image processing. It specifically focuses on **background removal** using OpenCV’s GrabCut algorithm.
